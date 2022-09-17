@@ -1,1 +1,2 @@
 # odin-recipes
+First project in the odin curriculum. The project is to build a website containing a homepage with three recipes for food. All three recipes should link to a seperate webpage explaining the individual recipe.
